@@ -1,5 +1,6 @@
-body {
-    margin: 0;
+html, body {
+    width:60%;
+    margin: 0 auto;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     color: black;
