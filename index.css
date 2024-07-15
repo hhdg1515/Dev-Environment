@@ -43,6 +43,10 @@ h1 {
     margin: 30px 25px;
 }
 
+p {
+    font-weight:bold;
+}    
+
 .item {
     position: relative;
 }
