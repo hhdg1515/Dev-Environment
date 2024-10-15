@@ -70,8 +70,7 @@ p {
     left: 0;
     background-color: rgba(245, 245, 245, 0.85);
     color: black;
-    padding: 12px;
-    border-radius: 4px;
+    padding: 16px;
 }
 
 button {
