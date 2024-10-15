@@ -5,6 +5,7 @@ html, body {
     font-family: 'Montserrat', sans-serif;
     color: black;
     background-color: gba(200, 200, 200, 0.5);
+    border: 0.1px solid lightgrey;
 }
 
 header {
