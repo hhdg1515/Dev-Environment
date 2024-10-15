@@ -76,18 +76,18 @@ p {
 
 button {
     align-self: center;
-    border: 0.1px solid lightgrey;
     border-radius: 4px;
-    background-color: whitesmoke;
-    color: #282828;
+    background-color: #282828;
+    color: whitesmoke;
     padding: 16px 40px;
     font-weight: 600;
 }
 
 button:hover {
     cursor: pointer;
-    color: whitesmoke;
-    background-color: #282828;
+    color: #282828;
+    background-color: whitesmoke;
+    border: 0.1px solid lightgrey;
 }
 
 button:active {
