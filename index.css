@@ -68,7 +68,7 @@ p {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(245, 245, 245, 0.75);
+    background-color: rgba(245, 245, 245, 0.85);
     color: black;
     padding: 16px 24px;
     font-weight:600;
@@ -80,7 +80,7 @@ button {
     border-radius: 4px;
     background-color: whitesmoke;
     color: #282828;
-    padding: 16px 32px;
+    padding: 16px 40px;
     font-weight: 600;
 }
 
